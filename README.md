@@ -73,3 +73,4 @@ You can view my projects by going through my GitHub profile at [https://github.c
 
 ## <a name="link"></a>Deployed Application 🚀
 
+[https://hazkeel27.github.io/oop-concepts-app/](https://hazkeel27.github.io/oop-concepts-app/)
